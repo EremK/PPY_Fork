@@ -1,0 +1,28 @@
+Student Number: s28391
+
+Original List: [5, 2, 20, 1, 9, 10]
+Original Tuple: (5, 2, 8, 1, 9)
+Original Set: {1, 2, 5, 9, 10, 20}
+Original Dictionary: {5: 25, 2: 4, 1: 1, 9: 81, 11: 121}
+
+Manipulated List: [5, 2, 20, 1, 9, 10]
+Manipulated Tuple: (5, 2, 8, 1, 9)
+Union of Set: {1, 2, 5, 8, 9, 10, 11, 12}
+Intersection of Set: {8, 5}
+Difference of Set: {9, 2, 11}
+Updated Dictionary: {5: 25, 2: 4, 1: 1, 9: 81, 11: 121}
+
+List to Tuple: (5, 2, 20, 1, 9, 10)
+List to Set: {1, 2, 5, 9, 10, 20}
+List to Dictionary: {0: 5, 1: 2, 2: 20, 3: 1, 4: 9, 5: 10}
+Tuple to List: [5, 2, 8, 1, 9]
+Tuple to Set: {1, 2, 5, 8, 9}
+Tuple to Dictionary: {0: 5, 1: 2, 2: 8, 3: 1, 4: 9}
+Set to List: [2, 5, 8, 9, 11]
+Set to Tuple: (2, 5, 8, 9, 11)
+Set to Dictionary: {0: 2, 1: 5, 2: 8, 3: 9, 4: 11}
+Dictionary to List: [5, 2, 1, 9, 11]
+Dictionary to Tuple: (5, 2, 1, 9, 11)
+Dictionary to Set: {1, 2, 5, 9, 11}
+
+Abcdefghijklmnopqrstuvwxyz
